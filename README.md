@@ -1,5 +1,5 @@
 # ¡Hola, mi nombre es Raúl Alvarado! 👋
-### Soy full-stack developer 💻 & Data analyst 📊
+### Soy Full-stack Developer 💻 & Data Analyst 📊
 
 <!-- Iconos de https://simpleicons.org/?q=types -->
 
