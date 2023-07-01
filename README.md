@@ -1,9 +1,8 @@
 # ¡Hola, mi nombre es Raúl Alvarado! 👋
 ### Soy Full-stack Developer 💻 & Data Analyst 📊
+<p>Aquí podrás encontrar algunos de los proyectos más interesantes que iré desarrollando durante mi aprendizaje de nuevas tecnologías.</p>
 
 <!-- Iconos de https://simpleicons.org/?q=types -->
-
-<br>
 
 ## Principales tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
